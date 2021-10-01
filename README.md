@@ -1,7 +1,9 @@
 # Description
 - This tic tac toe game is implemented in javascript + php Laravel framework.
 - Two game options are available:
+
 -- Basic 3x3 tic tac toe (using minimax alpha beta)
+
 -- Large board tic tac toe (using Newral Network: "tensorflow" to train the AI) - **in progress**
 
 

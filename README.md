@@ -7,12 +7,6 @@
 -- Large board tic tac toe (using Newral Network: "tensorflow" to train the AI) - **in progress**
 
 
-# Library Installaion
-- Numpy
-- Pandas
-
-# Quick start
-
 # GitHub URL
 **[https://github.com/GarlicSoup/https://github.com/GarlicSoup/tic_tac_toe_web_game](https://github.com/GarlicSoup/https://github.com/GarlicSoup/tic_tac_toe_web_game)**
 

@@ -1,5 +1,6 @@
 # Description
-- This tic tac toe game is implemented in javascript + php Laravel framework.
+- This tic tac toe game is written in javascript.
+- The game will be deployed on a website (**in progress**)
 - Two game options are available:
 
 -- Basic 3x3 tic tac toe (using minimax alpha beta)
